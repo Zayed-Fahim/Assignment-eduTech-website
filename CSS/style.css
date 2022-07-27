@@ -1,7 +1,9 @@
+.nav-ul-positioning ul{
+    margin-left: 17rem;
+}
 .carousel-mask>.mask {
     position: relative;
 }
-
 .carousel-inner>.mask:before {
     content: '';
     position: absolute;
@@ -11,4 +13,12 @@
     left: 0;
     background: rgba(29, 29, 29, 0.7);
     border-radius: 5px;
+}
+@media only screen (max-width:767px) {
+    h1{
+        font-size:1.25rem;
+    }
+    p{
+        font-size: .75rem;
+    }
 }
