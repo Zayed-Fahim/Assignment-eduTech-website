@@ -21,6 +21,7 @@
     height: 48px;
     border-radius: 50%;
     background-color: rgb(166, 197, 228);
+    z-index: 100;
 }
 
 .next-btn-customization {
@@ -30,4 +31,5 @@
     height: 48px;
     border-radius: 50%;
     background-color: dodgerblue;
+    z-index: 100;
 }
