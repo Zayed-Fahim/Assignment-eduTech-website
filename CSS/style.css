@@ -14,3 +14,20 @@
     background: rgba(29, 29, 29, 0.7);
     border-radius: 5px;
 }
+.prev-btn-customization {
+    position: absolute;
+    right: 180px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color: rgb(166, 197, 228);
+}
+
+.next-btn-customization {
+    position: absolute;
+    left: 180px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background-color: dodgerblue;
+}
