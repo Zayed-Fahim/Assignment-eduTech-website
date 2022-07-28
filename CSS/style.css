@@ -14,11 +14,3 @@
     background: rgba(29, 29, 29, 0.7);
     border-radius: 5px;
 }
-@media only screen (max-width:767px) {
-    h1{
-        font-size:1.25rem;
-    }
-    p{
-        font-size: .75rem;
-    }
-}
