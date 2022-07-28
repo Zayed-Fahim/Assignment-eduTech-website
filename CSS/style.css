@@ -33,3 +33,22 @@
     background-color: dodgerblue;
     z-index: 100;
 }
+
+@media only screen and (max-width:567px) {
+    .caption-1 h1{
+        font-size:1.25rem;
+        margin-top: 50px;
+    }
+    .caption-1 p{
+        font-size:.75rem;
+        margin-bottom: 10px;
+    }
+    .caption-1 button{
+        position: absolute;
+        padding: 4px 10px;
+        font-size: 1rem;
+        left:70px;
+        right: 70px;
+    }
+    
+}
